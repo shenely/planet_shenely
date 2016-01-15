@@ -1,0 +1,11 @@
+{
+	"users": [
+		{
+		    "first_name": "Joe",
+		    "last_name": "Smith",
+		    "userid": "jsmith",
+		    "groups": ["admins", "users"]
+		}
+	],
+	"groups": [ "admins", "users" ]
+}
