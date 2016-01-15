@@ -24,6 +24,6 @@ From anywhere, run the planet_shenely module in python:
 ```bash
 sudo python -m planet_shenely
 ```
-By default be reached at http://localhost:8080.
+By default the REST API may be reached at http://localhost:8080.
 
 Hit it! The REST API should now be active.
