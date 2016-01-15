@@ -11,7 +11,7 @@ Go to the planet_shenely directory and create a source distribution:
 cd ./planet_shenely
 python setup.py sdist
 ```
-The distribution will be packaged as a *.tar.gz (.zip on Windodes) by default.
+The distribution will be packaged as a *.tar.gz (.zip on Windows) by default.
 
 Go to the dist/ directory and use pip to install the package:
 ```bash
